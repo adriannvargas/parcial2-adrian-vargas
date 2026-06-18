@@ -1,0 +1,29 @@
+{
+  "name": "parcial2-adrian-vargas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriannvargas/parcial2-adrian-vargas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/adriannvargas/parcial2-adrian-vargas/issues"
+  },
+  "homepage": "https://github.com/adriannvargas/parcial2-adrian-vargas#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
